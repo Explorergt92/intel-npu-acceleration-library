@@ -21,3 +21,4 @@ xml
 coverity
 .tox
 nc_workspace
+.venv
